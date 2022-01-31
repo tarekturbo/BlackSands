@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\BlackSands.exe.config
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\BlackSands.exe
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\BlackSands.pdb
+C:\Users\User\source\repos\BlackSands\BlackSands\obj\Debug\BlackSands.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BlackSands\BlackSands\obj\Debug\BlackSands.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlackSands\BlackSands\obj\Debug\BlackSands.exe
+C:\Users\User\source\repos\BlackSands\BlackSands\obj\Debug\BlackSands.pdb
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\Leaf.xNet.dll
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\Leaf.xNet.xml
+C:\Users\User\source\repos\BlackSands\BlackSands\bin\Debug\Newtonsoft.Json.xml
